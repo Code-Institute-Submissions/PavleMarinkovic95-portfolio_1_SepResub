@@ -67,11 +67,10 @@ h1, h2 {
 
     position: relative;
 }
-.hero-image img {
+.hero-image {
     height: 700px;
     width: 100%;
-    background-repeat: no-repeat;
-    background-position: center center;
+    background: url('../images/cat-footer-faq.jpg') no-repeat center center;
 }
 .text-hero {
     font-size: 130%;
