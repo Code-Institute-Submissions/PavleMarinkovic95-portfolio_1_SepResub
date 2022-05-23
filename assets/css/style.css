@@ -92,3 +92,85 @@ h1, h2 {
 
     position: absolute;
 }
+/* Media screen control for tablet and mobile Landing edition  */
+@media screen and (max-width: 1024px) {
+    #hero-contain {
+        height: 450px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
+    .hero-image {
+        height: 450px;
+        width: 100%;
+        background: url('../images/cat-footer-faq.jpg') no-repeat center center;
+    }
+    .text-hero {
+        font-size: 100%;
+        font-family: 'Koulen', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    
+        width: 450px;
+        height: 130px;
+        color: #fff;
+    
+        padding-top: 40px;
+        padding-left: 10px;
+    
+        background-color: rgba(0, 0, 0, 0.7);
+    
+        bottom: 30px;
+        right: 150px;
+    
+        position: absolute;
+    }
+    h1 {
+        font-size: x-large;
+    }
+}
+@media screen and (max-width: 600px) {
+    #hero-contain {
+        height: 300px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
+    .hero-image {
+        height: 300px;
+        width: 100%;
+        background: url('../images/cat-footer-faq.jpg') no-repeat center center;
+    }
+    .text-hero {
+        font-size: 100%;
+        font-family: 'Koulen', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+    
+        width: 350px;
+        height: 100px;
+        color: #fff;
+    
+        padding-top: 40px;
+        padding-left: 10px;
+    
+        background-color: rgba(0, 0, 0, 0.7);
+    
+        bottom: 30px;
+        right: 50px;
+    
+        position: absolute;
+    }
+    h1 {
+        font-size: large;
+    }
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+}
