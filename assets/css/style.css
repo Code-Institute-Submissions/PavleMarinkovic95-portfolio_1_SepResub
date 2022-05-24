@@ -96,7 +96,7 @@ h1, h2 {
 /* Main page headings, textwalls and images */
 
 .main-read {
-    height: fit-content;
+    height: 510px;
 }
 
 .main-read h1 {
@@ -106,13 +106,17 @@ h1, h2 {
 }
 .textwall {
     float: left;
-    padding: 3% 10%;
-    text-align: left;
-    width: 60vw;
+    width: 60%;
 }
-.left-side {
-    width: 30%;
-    margin: 0 auto;
+.textwall p {
+    float: right;
+    width: 85%;
+}
+#text-intro {
+    padding-top: 8%;
+}
+.right-side {
+    width: 40%;
     float: right;
 }
 .circle-container {
@@ -126,9 +130,20 @@ h1, h2 {
     margin: 0 auto;
 }
 #entrance {
+    width: 300px;
+    height: 300px;
     background: url('../images/Entrance_to.jpg') no-repeat center center;
+    background-size: cover;
     border-radius: 50%;
-    height: fit-content;
+    float: left;
+}
+#history {
+    width: 300px;
+    height: 300px;
+    background: url('../images/bone_sphere.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius: 50%;
+    float: left;
 }
 
 /* Media screen control for tablet and mobile Landing edition  */
