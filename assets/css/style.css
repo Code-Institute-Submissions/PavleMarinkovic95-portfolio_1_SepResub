@@ -178,6 +178,17 @@ footer {
     padding: 4%;
     color: #ffffff;
 }
+/* gallery  */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+#photos > img {
+    width: 100%;
+}
 
 /* Media screen control for tablet and mobile Landing edition  */
 @media screen and (max-width: 1024px) {
@@ -229,6 +240,10 @@ footer {
         width: 100%;
         float: right;
     }
+    #photos {
+        
+        column-count: 2;
+    }
 
 }
 @media screen and (max-width: 600px) {
@@ -276,5 +291,9 @@ footer {
     }
     footer {
         height: 90px;
+    }
+    #photos {
+        
+        column-count: 1;
     }
 }
