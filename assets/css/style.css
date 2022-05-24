@@ -92,6 +92,22 @@ h1, h2 {
 
     position: absolute;
 }
+
+/* Main page headings and textwalls  */
+
+.main-read h1 {
+    text-align: center;
+    font-size: 350%;
+    padding: 15px;
+}
+.textwall {
+    padding: 3% 10%;
+    text-align: left;
+    
+    width: 60vw;
+
+}
+
 /* Media screen control for tablet and mobile Landing edition  */
 @media screen and (max-width: 1024px) {
     #hero-contain {
