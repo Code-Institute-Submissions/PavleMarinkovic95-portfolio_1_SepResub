@@ -153,6 +153,31 @@ h1, h2 {
     border-radius: 50%;
     float: left;
 }
+/* footer */
+
+footer {
+    height: 150px;
+    background-color: black;
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -20px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 4%;
+    color: #ffffff;
+}
 
 /* Media screen control for tablet and mobile Landing edition  */
 @media screen and (max-width: 1024px) {
@@ -248,5 +273,8 @@ h1, h2 {
         margin-left: 10px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+    footer {
+        height: 90px;
     }
 }
