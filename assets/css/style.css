@@ -334,23 +334,23 @@ footer {
         background: url('../images/cat-footer-faq.jpg') no-repeat center center;
     }
     .text-hero {
-        font-size: 80%;
+        font-size: 90%;
         font-family: 'Koulen', sans-serif;
         text-transform: uppercase;
         letter-spacing: 3px;
     
-        width: 390px;
+        width: 360x;
         height: 100px;
-        color: rgb(200, 9, 9);
+        color: #fff;
     
         padding-top: 40px;
-        padding-left: 30px;
+        padding-left: 20px;
     
         background-color: rgba(0, 0, 0, 0.7);
     
         bottom: 30px;
-        right: 20px;
-    
+        right: 2px;
+        left: 1px;
         position: absolute;
     }
     h1 {
