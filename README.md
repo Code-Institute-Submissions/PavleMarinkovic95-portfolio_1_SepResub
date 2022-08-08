@@ -32,6 +32,13 @@ Finally, there is a footer at the bottom of each page with links to many media p
 <br>
 <h2>Testing</h2>
 
+![Screenshot (62)](https://user-images.githubusercontent.com/105302576/183416873-67592cca-1600-4637-b4eb-3ed4b5dbb267.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/105302576/183416936-b5a262f1-cf72-4f9b-967e-a169ebf87a1c.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/105302576/183416945-989fc792-4552-4aa9-a33d-9a4f4bbac6e0.png)
+
+![Screenshot (63)](https://user-images.githubusercontent.com/105302576/183416974-94f19582-4273-4ffa-bba4-c550a6b58b1f.png)
+
+![Screenshot (64)](https://user-images.githubusercontent.com/105302576/183416991-bdab5b59-4a10-4f61-82fe-1274ff681f08.png)
 
 
 <br>
