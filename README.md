@@ -46,13 +46,18 @@ Finally, there is a footer at the bottom of each page with links to many media p
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/105302576/183416991-bdab5b59-4a10-4f61-82fe-1274ff681f08.png)
 
+<h3>Unfixed warnings</h3>
+Warinings in HTML validator are linked to the site layout itself, some headings are not included because of the sites needs.
+They are left as warings, but Bugs are not present in the code.
 <br>
 <h2>Deployment</h2>
 
-
+**The site is deployed via Github Pages**
 
 Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
 
 <br>
 <h2>Credits</h2>
+
+Here I cover the content and media used in the creation of my website
 
