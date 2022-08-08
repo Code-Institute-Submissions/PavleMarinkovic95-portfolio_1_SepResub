@@ -32,17 +32,24 @@ Finally, there is a footer at the bottom of each page with links to many media p
 <br>
 <h2>Testing</h2>
 
+Testing done in HTML validator @ https://validator.w3.org/
+
 ![Screenshot (62)](https://user-images.githubusercontent.com/105302576/183416873-67592cca-1600-4637-b4eb-3ed4b5dbb267.png)
 ![Screenshot (61)](https://user-images.githubusercontent.com/105302576/183416936-b5a262f1-cf72-4f9b-967e-a169ebf87a1c.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/105302576/183416945-989fc792-4552-4aa9-a33d-9a4f4bbac6e0.png)
 
+Testing done in CSS validator @ https://jigsaw.w3.org/css-validator/
+
 ![Screenshot (63)](https://user-images.githubusercontent.com/105302576/183416974-94f19582-4273-4ffa-bba4-c550a6b58b1f.png)
+
+Testing the loading of the page with Lighthouse
 
 ![Screenshot (64)](https://user-images.githubusercontent.com/105302576/183416991-bdab5b59-4a10-4f61-82fe-1274ff681f08.png)
 
-
 <br>
 <h2>Deployment</h2>
+
+
 
 Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
 
