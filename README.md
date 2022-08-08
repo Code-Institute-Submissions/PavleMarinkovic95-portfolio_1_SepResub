@@ -30,4 +30,15 @@ Finally, there is a footer at the bottom of each page with links to many media p
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/105302576/176996395-540f7bb4-2fb4-463d-92c0-127810137608.jpg)
 <br>
-<h2>Main </h2>
+<h2>Testing</h2>
+
+
+
+<br>
+<h2>Deployment</h2>
+
+Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
+
+<br>
+<h2>Credits</h2>
+
