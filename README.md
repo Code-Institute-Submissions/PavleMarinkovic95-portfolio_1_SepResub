@@ -59,5 +59,15 @@ Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
 <br>
 <h2>Credits</h2>
 
-Here I cover the content and media used in the creation of my website
+**Here I cover the content and media used in the creation of my website.**
 
+<h4>Content</h4>
+The main text was taken and refined from a dedicated wikipedia page. -> https://en.wikipedia.org/wiki/Catacombs_of_Paris
+
+<h4>Media</h4>
+The images were taken form google images and various news posts.
+
+<h4>Additional help</h4>
+
+I got my code inspiration and the general layout from the Code Institute "Love Running Project"<br>
+Big thanks to my mentor <a href="https://github.com/5pence">Spencer Barriball</a> for all the advice on the readme.md.
