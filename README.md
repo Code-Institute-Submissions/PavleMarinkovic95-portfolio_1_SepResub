@@ -1,5 +1,5 @@
 # portfolio_1
-The first portfolio for Code institute 
+**The first portfolio for Code institute.**
 
 The first portfolio for Code Institute The website covers an interesting topic about the French catacombs. They are centuries old and not completely explored. They hold many secrets, both scary and fun. Check them out on my first portfolio project.
 <h2>Main look across multiple screens.</h2>
@@ -69,5 +69,5 @@ The images were taken form google images and various news posts.
 
 <h4>Additional help</h4>
 
-I got my code inspiration and the general layout from the Code Institute "Love Running Project"<br>
-Big thanks to my mentor <a href="https://github.com/5pence">Spencer Barriball</a> for all the advice on the readme.md.
+**I got my code inspiration and the general layout from the Code Institute "Love Running Project"<br>**
+**Big thanks to my mentor <a href="https://github.com/5pence">Spencer Barriball</a> for all the advice on the readme.md.**
