@@ -69,7 +69,5 @@ The images were taken form google images and various news posts.
 
 <h4>Additional help</h4>
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-
 **I got my code inspiration and the general layout from the Code Institute "Love Running Project"<br>**
 **Big thanks to my mentor <a href="https://github.com/5pence" target="_blank">Spencer Barriball</a> for all the advice on the readme.md.**
