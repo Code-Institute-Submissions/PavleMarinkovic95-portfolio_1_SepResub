@@ -54,7 +54,7 @@ They are left as warings, but Bugs are not present in the code.
 
 **The site is deployed via Github Pages**
 
-Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
+Live link here ==>  <a href="https://pavlemarinkovic95.github.io/portfolio_1/" target="_blank">The Paris Catacombs</a> 
 
 <br>
 <h2>Credits</h2>
@@ -62,7 +62,7 @@ Live link here ==>  https://pavlemarinkovic95.github.io/portfolio_1/
 **Here I cover the content and media used in the creation of my website.**
 
 <h4>Content</h4>
-The main text was taken and refined from a dedicated wikipedia page. -> https://en.wikipedia.org/wiki/Catacombs_of_Paris
+The main text was taken and refined from a dedicated wikipedia page. -> <a href="https://en.wikipedia.org/wiki/Catacombs_of_Paris" target="_blank">Wiki page here</a>
 
 <h4>Media</h4>
 The images were taken form google images and various news posts.
@@ -70,4 +70,4 @@ The images were taken form google images and various news posts.
 <h4>Additional help</h4>
 
 **I got my code inspiration and the general layout from the Code Institute "Love Running Project"<br>**
-**Big thanks to my mentor <a href="https://github.com/5pence">Spencer Barriball</a> for all the advice on the readme.md.**
+**Big thanks to my mentor <a href="https://github.com/5pence" target="_blank">Spencer Barriball</a> for all the advice on the readme.md.**
