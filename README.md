@@ -54,6 +54,11 @@ They are left as warings, but Bugs are not present in the code.
 
 **The site is deployed via Github Pages**
 
+Once the proper repository is selected, we navigate to the **Settings** tab.
+There we navigate to the pages options on the bottom left. From there we select the main branch and select deploy and github will update the project and all subsequent changes to the code automatically. 
+
+The deployment went without any issues.
+
 Live link here ==>  <a href="https://pavlemarinkovic95.github.io/portfolio_1/" target="_blank">The Paris Catacombs</a> 
 
 <br>
